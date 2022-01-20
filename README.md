@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **big brainers**
+- 👯 I’m looking to collaborate on **open source projects**
 
 - 🤝 I’m looking for help with **a lot of projects**
 
