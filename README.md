@@ -3,36 +3,26 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=struckchure&label=Profile%20views&color=0e75b6&style=flat" alt="struckchure" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=struckchure" alt="struckchure" /></a> </p>
-
 <p align="center"> <a href="https://twitter.com/struckchure" target="blank"><img src="https://img.shields.io/twitter/follow/struckchure?logo=twitter&style=for-the-badge" alt="struckchure" /></a> </p>
 
 <p align="center">
-- 🔭 I’m currently working on **my self**
+  - 🌱 I’m currently learning <b>DevOps</b>
 </p>
 
 <p align="center">
-- 🌱 I’m currently learning **DevOps**
+  - 👯 I’m looking to collaborate on <b>open source projects</b>
 </p>
 
 <p align="center">
-- 👯 I’m looking to collaborate on **open source projects**
+  - 🤝 I’m looking for help with <b>a lot of projects</b>
 </p>
 
 <p align="center">
-- 🤝 I’m looking for help with **a lot of projects**
+  - 💬 Ask me about <b>React / React Native / Django</b>
 </p>
 
 <p align="center">
-- 💬 Ask me about **React / Django / Python / JavaScript**
-</p>
-
-<p align="center">
-- 📫 How to reach me **ameenmohammed2311@gmail.com**
-</p>
-
-<p align="center">
-- ⚡ Fun fact **I'm not a regular**
+  - ⚡ Fun fact <b>I'm not a regular</b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -46,7 +36,5 @@
 </p>
 
 <p align="center">
-  <img align="center" style="display: inline;" src="https://github-readme-stats.vercel.app/api?username=struckchure&show_icons=true&locale=en" alt="struckchure" />
-
   <img align="center" style="display: inline;" src="https://github-readme-streak-stats.herokuapp.com/?user=struckchure&" alt="struckchure" />
 </p>
