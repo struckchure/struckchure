@@ -6,23 +6,7 @@
 <p align="center"> <a href="https://twitter.com/struckchure" target="blank"><img src="https://img.shields.io/twitter/follow/struckchure?logo=twitter&style=for-the-badge" alt="struckchure" /></a> </p>
 
 <p align="center">
-  - 🌱 I’m currently learning <b>DevOps</b>
-</p>
-
-<p align="center">
-  - 👯 I’m looking to collaborate on <b>open source projects</b>
-</p>
-
-<p align="center">
-  - 🤝 I’m looking for help with <b>a lot of projects</b>
-</p>
-
-<p align="center">
-  - 💬 Ask me about <b>React / React Native / Django</b>
-</p>
-
-<p align="center">
-  - ⚡ Fun fact <b>I'm not a regular</b>
+  <b>DevOps | React | React Native | Django</b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
