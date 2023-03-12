@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Struckchure</h1>
-<h3 align="center">Software Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <b>DevOps | Django | NestJS</b>
+  <b>DevOps Engineer | Backend Engineer</b>
 </p>
 
 <p align="center">
