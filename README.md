@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <b>DevOps Engineer | Backend Engineer</b>
+  <b>DevOps | Backend</b>
 </p>
 
 <p align="center">
