@@ -2,7 +2,8 @@
 <h3 align="center">Just a guys who loves to build unconventional things ...</h3>
 
 <p align="center">
-  <b>DevOps | Backend</b>
+  <p>Interested in 👇</p>
+  <b>DevOps | Backend | Dev Tools</b>
 </p>
 
 <p align="center">
