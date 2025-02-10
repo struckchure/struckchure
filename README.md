@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Struckchure</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Just a guys who loves to build unconventional things ...</h3>
 
 <p align="center">
   <b>DevOps | Backend</b>
