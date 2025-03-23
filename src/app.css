@@ -1,1 +1,25 @@
 @import 'tailwindcss';
+
+* {
+    font-family: "Space Grotesk", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+html,
+body {
+    @apply w-full h-full p-0 m-0 bg-[#333] text-white;
+}
+
+.custom-cursor {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    mix-blend-mode: difference;
+    pointer-events: none;
+    transition: transform 0.1s ease-out, background-color 0.2s ease-in-out;
+    transform: translate(-50%, -50%);
+    transform-origin: center;
+}
