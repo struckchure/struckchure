@@ -4,7 +4,7 @@
     const {data}: PageProps = $props()
 </script>
 
-<section class="p-4 space-y-4">
+<section class="p-4 space-y-4 container mx-auto max-w-4xl">
     <span class="block">/ user</span>
     <div class="border p-2 space-y-4">
         <h1 class="text-6xl">Mohammed <br /> Al-Ameen</h1>
