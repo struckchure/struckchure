@@ -4,7 +4,7 @@
 <p align="center">Interested in 👇</p>
 
 <p align="center">
-  <b>DevOps | Backend | Dev Tools</b>
+  <b>Backend | DevOps | Dev Tools</b>
 </p>
 
 <p align="center">
